@@ -66,7 +66,8 @@ pip install pillow requests
 3. **Get Predictions**: Click the "Get Predictions" button to fetch and display future weather predictions.
 
 ## Screenshot
-![Weather App Screenshot](screenshots/weather_app_screenshot.png)
+![WhatsApp Image 2025-01-21 at 21 23 36_b94ee483](https://github.com/user-attachments/assets/d2232e9f-2413-485f-8fbc-c9a0df8d3618)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
